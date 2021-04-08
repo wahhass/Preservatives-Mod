@@ -1,6 +1,6 @@
 name = "Preserve"
 description = "Adds some preservatives to your food into the game!"
-author = "animetheme"
+author = "wahhass"
 
 icon_atlas = "mod_icon.xml"
 icon = "mod_icon.tex"
